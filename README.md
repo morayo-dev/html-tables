@@ -6,4 +6,4 @@
 ## Below is the final implementation of the tabular structure
 ---
 
-![This is an image](./MDN-HTML_Table.png)
+![This is an image](/icons/MDN-HTML_Table.png)
