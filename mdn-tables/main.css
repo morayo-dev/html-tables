@@ -1,0 +1,46 @@
+html{
+    font-size: 22px;
+}
+
+h1,p{
+    text-align: center;
+    margin:2rem;
+}
+
+p{
+    font-family: monospace;
+    text-decoration: underline;
+}
+
+table{
+    background-color: rgba(197, 155, 65, 0.255);
+    width:50%;
+    margin:2.5rem auto;
+    border:2px solid #ccc;
+    border-collapse: collapse;
+    /* border-spacing: 0.5rem; */
+}
+
+
+
+th, td, caption{
+    
+    font-family: 'Courier New', Courier, monospace;
+    border:1.5px solid #585252;
+    padding: 0.5rem;
+    text-align: center;
+    
+}
+
+
+caption{
+    background-color: rgba(95, 82, 39, 0.772);
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+caption:hover{
+    background-color: rgb(31, 31, 10);
+    color: whitesmoke;
+}
